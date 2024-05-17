@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔎 Software Engineer with experience in frontend and backend development<br/><br>🎓 Studied Computer Science at Arkansas Tech University<br/><br>💻 Find enjoyment in developing websites, bots, and games<br/><br>⚙️ Currently working and learning about video game development<br/> <br><br>
+🔎 Software Engineer with experience in frontend and backend development<br/><br>
+🎓 Studied Computer Science at Arkansas Tech University<br/><br>
+💻 Find enjoyment in developing websites, bots, and games<br/><br>
+⚙️ Currently working and learning about video game development<br/> <br><br>
 
 
 ## 🌐 Socials:

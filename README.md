@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 Hi, I'm Gabe!
 🔎 Software Engineer with experience in frontend and backend development<br/><br>
 🎓 Studied Computer Science at Arkansas Tech University<br/><br>
 💻 Find enjoyment in developing websites, bots, and games<br/><br>
@@ -14,9 +14,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=GabeFalcon&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GabeFalcon&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GabeFalcon&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=GabeFalcon&icon=0&color=6)](https://visitcount.itsvg.in)

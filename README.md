@@ -2,7 +2,7 @@
 🔎 Software Engineer with experience in frontend and backend development<br/><br>
 🎓 Studied Computer Science at Arkansas Tech University<br/><br>
 💻 Find enjoyment in developing websites, bots, and games<br/><br>
-⚙️ Currently working and learning about video game development<br/> <br><br>
+⚙️ Currently working and learning about video game development<br/> <br>
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabefalcon) 

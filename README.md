@@ -5,7 +5,7 @@
 ⚙️ Currently working and learning about video game development<br/> <br><br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabefalcon) 
 
 # 💻 Tech Stack:

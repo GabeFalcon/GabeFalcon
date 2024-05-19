@@ -2,7 +2,7 @@
 🔎 Software Engineer with experience in frontend and backend development<br/><br>
 🎓 Studied Computer Science at Arkansas Tech University<br/><br>
 💻 Developing websites, bots, and games<br/><br>
-⚙️ Currently working and learning about video game development<br/> <br>
+⚙️ Currently working and learning about video game development<br/><br>
 
 # 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabefalcon) 
@@ -30,7 +30,7 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
 # 🔧 Projects
-! AdventureAssistant Discord Bot
+! AdventureAssistant Discord Bot <br/><br>
 <img src="2024-05-19 17-17-23.gif" width="700" >
 
 

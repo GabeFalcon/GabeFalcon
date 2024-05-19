@@ -30,7 +30,7 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
 # 🔧 Projects
-<img src="2024-05-19 17-17-23_2.gif" width="250" >
+<img src="2024-05-19 17-17-23_2.gif" width="550" >
 
 
 # 📊 GitHub Stats

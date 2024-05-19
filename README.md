@@ -30,7 +30,7 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
 # 🔧 Projects
-! AdventureAssistant Discord Bot <br/><br>
+## AdventureAssistant Discord Bot <br/><br>
 <img src="2024-05-19 17-17-23.gif" width="700" >
 
 

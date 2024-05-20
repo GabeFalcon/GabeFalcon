@@ -35,7 +35,7 @@ A Discord bot to assist players in games of Dungeons and Dragons. The bot uses t
 The bot was developed using [ **Javascript, NodeJS, and Discord API** ]. 
 
 <img src="2024-05-19 17-17-23.gif" width="700" >
-<br/><br><br/><br>
+<br/><br>
 ## AdventureAssistant Website<br/><br>
 A website for the AdventureAssistant Discord bot. The website offers support, information, and customizable character sheets.<br/><br>
 The website was developed using [ **JavaScript, React, CSS, MySQL, AWS RDS, NodeJS, ExpressJS, Heroku, and Render** ]
